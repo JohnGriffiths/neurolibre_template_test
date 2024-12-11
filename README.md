@@ -2,6 +2,8 @@
 
 ## Brainhackers present: 
 John Griffiths  
+John Doe    
+Yasmin Sheikh
 John Doe  
 Priya van Oosterhout  
 ...
