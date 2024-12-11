@@ -3,7 +3,7 @@
 ## Brainhackers present: 
 John Griffiths  
 John Doe  
-...
+Yasmin Sheikh
 
 ## Preprint template
 
