@@ -6,6 +6,7 @@ Justin Chang
 John Griffiths  
 John Doe  
 Priya van Oosterhout  
+Jack Doe 
 ...
 
 ## Preprint template
