@@ -5,7 +5,8 @@ John Griffiths
 Justin Chang
 John Griffiths  
 John Doe  
-Priya van Oosterhout  
+Priya van Oosterhout
+Barzany Ridha
 ...
 
 ## Preprint template
